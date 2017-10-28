@@ -1,0 +1,15 @@
+h1{
+  color: rgb(141, 204, 69);
+}
+
+.col-3{
+  float: left;
+  width: 20%;
+}
+.clear{
+  clear: both;
+}
+#head{
+  background-color: gray;
+  border: 1px solid gray;
+}
